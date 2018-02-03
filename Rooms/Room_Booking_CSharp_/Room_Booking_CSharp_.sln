@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Room_Booking_CSharp_", "Room_Booking_CSharp_\Room_Booking_CSharp_.csproj", "{2AF66D17-4E96-4A75-9435-9FBB95D1C916}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2AF66D17-4E96-4A75-9435-9FBB95D1C916}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AF66D17-4E96-4A75-9435-9FBB95D1C916}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AF66D17-4E96-4A75-9435-9FBB95D1C916}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AF66D17-4E96-4A75-9435-9FBB95D1C916}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
